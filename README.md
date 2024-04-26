@@ -1,11 +1,12 @@
 Predicting Rainy days in Australia 
 ==============================
 
-Description: 
-
+Description
+------------  
 The following project aims at analysing the weather data in Australia from 2009 to 2017. We want to predict the incidence of rainy days. The dataset used contains 10 years of daily weather data from several locations across Australia. 
 
-Data Source: 
+Data Source
+------------  
 Rain in Australia: Weather in Australia, dataset for 10 years from 2007 to 2017 from numerous Australian weather stations.
 
 The data is freely available at Kaggle under the following link: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
