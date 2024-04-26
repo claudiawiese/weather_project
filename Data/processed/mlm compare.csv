@@ -1,0 +1,6 @@
+model,un/ov,accuracy,precision,recall,F1
+dec.tree,smote,0.79,0.51,0.71,0.6
+knn,ran_und,0.81,0.54,0.57,0.56
+logreg,smote,0.8,0.51,0.79,0.62
+ran.forest,ran_ov,0.86,0.69,0.62,0.65
+xgboost,ran_und,0.8,0.52,0.82,0.64
