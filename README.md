@@ -11,7 +11,6 @@ Rain in Australia: Weather in Australia, dataset for 10 years from 2007 to 2017 
 
 The data is freely available at Kaggle under the following link: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
 
-
 Project Organization
 ------------         
     ├── data               
@@ -33,4 +32,4 @@ Project Organization
     │
     └──requirements.txt   
     
-Note: For the notebooks we used joblib to store certain model information and avoid recomputing certain model results which took a lot of time to run. The joblib files are too big to be stored on github however.
+Note: For the notebooks we used joblib to store certain model information and avoid recomputing model results which took a lot of time to run. The joblib files are too big to be stored on github however.
