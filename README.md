@@ -15,17 +15,18 @@ Project Organization
 ------------         
     ├── data               
     │   ├── map            contains all files necessary to use the map of Australia
-    │   ├── processed      contains the pre-processed data set: weatherAUS_imputed.csv
+    │   ├── processed      contains the pre-processed data set: weatherAUS_imputed.csv, and result of different ml models: mlm compare.csv
     │   └── raw            contains the raw data set: weatherAUS.csv
     │
     ├── notebooks         
     │   ├── DeepModels      contails all the Neural Network models: NeuralNetworkModelling.ipynb, NeuralNetworkModelling_stable.ipynb
-    │   ├── MLModels        contains all the Machine Learning Models notebooks
+    │   ├── MLModels        contains all the Machine Learning Model notebooks, alongwith interpretation and mlm comparison notebooks
     │   └── Preprocessing   cotains the notebook for preprocessing the raw data: PreprocessingFinal.ipynb
     │                         
     │
     ├── reports            Preprocessing_Report                          
     │                      Modelling_Report 
+    |                      Merged: Final reprt
     ├── .gitignore
     ├── LICENSE
     ├── README.md 
