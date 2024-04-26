@@ -12,10 +12,7 @@ The data is freely available at Kaggle under the following link: https://www.kag
 
 
 Project Organization
-------------
-
-    ├── LICENSE
-    ├── README.md          
+------------         
     ├── data               
     │   ├── map            contains all files necessary to use the map of Australia
     │   ├── processed      contains the pre-processed data set: weatherAUS_imputed.csv
@@ -29,7 +26,10 @@ Project Organization
     │
     ├── reports            Preprocessing_Report                          
     │                      Modelling_Report 
+    ├── .gitignore
+    ├── LICENSE
+    ├── README.md 
     │
-    ├── requirements.txt   
+    └──requirements.txt   
     
 Note: For the notebooks we used joblib to store certain model information and avoid recomputing certain model results which took a lot of time to run. The joblib files are too big to be stored on github however.
