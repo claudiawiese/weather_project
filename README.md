@@ -3,11 +3,11 @@ Predicting Rainy days in Australia
 
 Description
 ------------  
-The following project aims at analysing the weather data in Australia from 2009 to 2017. We want to predict the incidence of rainy days. The dataset used contains 10 years of daily weather data from several locations across Australia. We use Machine Learning Models as well as Deep Learning Models to make our predictions.
+The following project aims at analyzing weather data in Australia, more precisely we want to predict the incidence of rainy days. The dataset used contains 10 years of daily weather data from several locations across Australia. We use Machine Learning Models as well as Deep Learning Models to make our predictions.
 
 Results
 ------------  
-The results can be all found in the modelling report in the reports folder. Our Machine Learning Models did a better job in predicting rainy days. 
+The results can all be found in the modelling report in the reports folder. Our Machine Learning Models did a better job in predicting rainy days than our Deep Learning Models.
 
 Running the project
 ------------
